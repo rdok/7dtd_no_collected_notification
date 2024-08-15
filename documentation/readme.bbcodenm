@@ -1,0 +1,21 @@
+[size=6]7 Days to Die Mod - No Collected Notification[/size]
+
+[url=https://next.nexusmods.com/7daystodie/collections/epfqzi][img]https://img.shields.io/badge/Nexus%20Mods%20Collection-Immersive%20HUD%20-orange?style=flat-square&logo=spinrilla[/img][/url] [url=https://www.nexusmods.com/7daystodie/mods/5776][img]https://img.shields.io/badge/Nexus%20Mod-No%20Collected%20Notification%20-orange?style=flat-square&logo=spinrilla[/img][/url] [url=https://github.com/rdok/7dtd_no_collected_notification][img]https://img.shields.io/badge/GitHub-Repository-green?style=flat-square&logo=github[/img][/url]
+
+[quote]
+[b]No Collected Notification:[/b] Turns off notification of collected items: looting, mining, salvaging, and butchering, etc.
+[b]EAC Caveat:[/b] This mod uses custom code that is not compatible with Easy Anti-Cheat (EAC).
+[/quote]
+[url=https://www.nexusmods.com/7daystodie/mods/5776][img]https://github.com/rdok/7dtd_no_collected_notification/blob/main/documentation/showcase.jpg?raw=true[/img][/url]
+
+[size=5]Features[/size]
+[list]
+[*] Turns off notification of collected items: looting, mining, salvaging, and butchering, etc.
+[*] To turn off XP notification refer to [url=https://www.nexusmods.com/7daystodie/mods/5760]No XP Notification[/url]
+[*] Game Version: 1.0. Install with [url=https://www.nexusmods.com/about/vortex/]Vortex[/url].
+[/list]
+[size=5]Changelog[/size]
+[size=4]v1.0.0 15-Aug-24[/size]
+[list]
+[*] feat: Disable XUiC_CollectedItemList.AddItemStack universally.
+[/list]
